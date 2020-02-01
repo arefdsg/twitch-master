@@ -1,4 +1,4 @@
-"a": "sendkey a",
+	"a": "sendkey a",
 	"A": "sendkey shift-a",
 	"b": "sendkey b",
 	"B": "sendkey shift-b",
