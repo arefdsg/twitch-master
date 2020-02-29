@@ -45,8 +45,8 @@ var command_interval = 15,
 	max_filter_len = 50,
 
 	perc_req =  {
-		"system_reset": 80,
-		"ctrl-c": 60
+		"system_reset": 50,
+		"ctrl-c": 30
 	}, // ^ sets the required percentages to be fulfilled for yes
 
 	mouse_range = {
